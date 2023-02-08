@@ -38,5 +38,8 @@ function lightMode(){
   document.getElementsByTagName("h2")[0].style.color="black"
   document.getElementsByTagName("h3")[0].style.color="black"
   document.getElementsByTagName("h1")[0].style.color="black"
+   document.getElementsByClassName("menu")[0].style.backgroundColor="black"
+  document.getElementsByClassName("menu")[1].style.backgroundColor="black"
+  document.getElementsByClassName("menu")[2].style.backgroundColor="black"
 }
 
